@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-const title = "React Test Flight";
+const title = "React Test Fligaht";
 
-ReactDOM.createRoot(document.getElementById("app")).render(
+ReactDOM.unstable_createRoot(document.getElementById("app")).render(
   <>
     <p>{title}</p>
   </>
