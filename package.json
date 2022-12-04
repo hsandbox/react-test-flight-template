@@ -18,7 +18,7 @@
     "react-hot-loader": "^4.13.0",
     "webpack": "^4.45.0",
     "webpack-cli": "^4.3.1",
-    "webpack-dev-server": "^3.11.1"
+    "webpack-dev-server": "^3.11.3"
   },
   "dependencies": {
     "react": "0.0.0-experimental-3310209d0",
